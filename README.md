@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>My first web page</title>
+        <title>Web Page</title>
     </head>
     <body>
         <table  align="" border="0" width="1500" height="1200" cellpadding="0" cellspacing="0">
